@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MacroKeyboard2RotaryEncoders_Mech_with_profiles-rescue")(type "KiCad")(uri "${KIPRJMOD}/MacroKeyboard2RotaryEncoders_Mech_with_profiles-rescue.kicad_sym")(options "")(descr ""))
+)
